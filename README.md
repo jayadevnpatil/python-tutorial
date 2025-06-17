@@ -90,4 +90,43 @@ Welcome to the Python Programming Fundamentals repository! This repository conta
     - Sets basics
     - Set methods
 
-Feel free to explore the notebooks in any order that suits your learning style. Happy coding!
+14. **File Handling in Python**
+   - Reading files
+   - Writing to files
+   - File read/write modes
+
+15. **Exception Handling in Python**
+   - Types of exceptions
+   - Occurrence of exceptions
+   - Handling exceptions
+   - Raising exceptions
+   - Creating a custom exception
+   - Structure of a generic exception
+
+16. **Lambda Expressions in Python**
+   - Introduction to Lambda expressions
+
+17. **Functions in Detail**
+   - `map` function
+   - `filter` function
+   - `reduce` function
+
+19. **Scope and Closures**
+   - Understanding the scope of a variable
+   - Closures
+
+20. **Classes and Objects**
+   - Introduction to classes and objects
+   - `__init__()` method
+   - Understanding `self`
+   - Class variables and Instance variables
+   - Class methods and Instance methods
+   - Deleting an object
+
+21. **Inheritance in Python**
+   - Overview of Inheritance
+   - Examples to understand Inheritance
+
+22. **Datetime Module**
+   - Exploring the datetime module in Python
+
